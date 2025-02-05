@@ -14,7 +14,7 @@
 - [Usage](#usage)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 The **Fuel Efficiency Prediction** project leverages machine learning techniques to predict the fuel efficiency (measured in km per liter) of vehicles based on various features. Accurate predictions can help manufacturers and consumers make informed decisions about vehicle design and selection for better fuel economy.
